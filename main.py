@@ -13,3 +13,8 @@ with col2:
     Hi, I am Roman! I am a Python programmer, student.
     """
     st.info(content)
+
+content_contact = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content_contact)
